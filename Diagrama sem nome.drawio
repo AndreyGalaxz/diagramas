@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T02:10:44.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="uVgnv38uNgFExWZsS8PC" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T23:53:24.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="nz-t6Cqz79FGEz-TiBsn" version="20.2.7" type="github">
   <diagram id="3DSPcj4n7MCKJTRVredh" name="Página-1">
-    <mxGraphModel dx="923" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-1" target="K4mOxKQrMV5fhllmKBj7-2">
+        <mxCell id="K4mOxKQrMV5fhllmKBj7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="K4mOxKQrMV5fhllmKBj7-1" target="K4mOxKQrMV5fhllmKBj7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="K4mOxKQrMV5fhllmKBj7-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-2" target="K4mOxKQrMV5fhllmKBj7-4">
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-2" target="j4UbRj9h2byq0CYKqTHb-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-2" target="K4mOxKQrMV5fhllmKBj7-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-2" value="Dizima periódica" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="K4mOxKQrMV5fhllmKBj7-2" value="valor a esquerda da virgula&lt;br&gt;anti-periodo&lt;br&gt;periodo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="485" y="130" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-4">
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-1" target="j4UbRj9h2byq0CYKqTHb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-1" value="caso&amp;nbsp; 1&lt;br&gt;Sem anti-periodo e valor a esquerda da virgula = 0" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="240" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-4" target="j4UbRj9h2byq0CYKqTHb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-4" value="x &amp;lt;- periodo&lt;br&gt;d &amp;lt;- 9" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="364" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="330" as="targetPoint" />
+            <mxPoint x="600" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-4" target="K4mOxKQrMV5fhllmKBj7-8">
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-6" target="j4UbRj9h2byq0CYKqTHb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-4" value="x &amp;lt;- Dizima periódica&lt;br&gt;m &amp;lt;- 10x" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="220" width="160" height="80" as="geometry" />
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-6" value="contar quantidade de algarismos em x&lt;br&gt;para cada algarismo em x, d multiplica por 10&amp;nbsp;&lt;br&gt;&lt;br&gt;retorne x dividido por d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="442.19" y="510" width="315.62" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mOxKQrMV5fhllmKBj7-8" target="K4mOxKQrMV5fhllmKBj7-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-8" value="t &amp;lt;- m - x&lt;br&gt;v &amp;lt;- (10x) - x&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="330" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-10" value="mostrar -&amp;gt; (t)/9" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="490" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="K4mOxKQrMV5fhllmKBj7-12" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="220" width="130" height="80" as="geometry" />
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-15" value="mostrar na tela valor da dizima em forma fracionada" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="175.62" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
