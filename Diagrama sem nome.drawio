@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T23:53:24.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="nz-t6Cqz79FGEz-TiBsn" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T00:09:20.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="B_NRjn2TvGVJ95FxvyKG" version="20.2.7" type="github">
   <diagram id="3DSPcj4n7MCKJTRVredh" name="Página-1">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,19 +28,14 @@
         <mxCell id="j4UbRj9h2byq0CYKqTHb-4" value="x &amp;lt;- periodo&lt;br&gt;d &amp;lt;- 9" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="364" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="j4UbRj9h2byq0CYKqTHb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j4UbRj9h2byq0CYKqTHb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-6" target="j4UbRj9h2byq0CYKqTHb-15">
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j4UbRj9h2byq0CYKqTHb-6" target="j4UbRj9h2byq0CYKqTHb-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j4UbRj9h2byq0CYKqTHb-6" value="contar quantidade de algarismos em x&lt;br&gt;para cada algarismo em x, d multiplica por 10&amp;nbsp;&lt;br&gt;&lt;br&gt;retorne x dividido por d" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="442.19" y="510" width="315.62" height="120" as="geometry" />
+          <mxGeometry x="442.19" y="490" width="315.62" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j4UbRj9h2byq0CYKqTHb-15" value="mostrar na tela valor da dizima em forma fracionada" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="500" width="175.62" height="140" as="geometry" />
+        <mxCell id="j4UbRj9h2byq0CYKqTHb-17" value="verificar divisibilidade" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="650" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
